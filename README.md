@@ -2,9 +2,7 @@
 
 <!--
 **infinite-war/infinite-war** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![WenkanHuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=infinite-war&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinite-war&layout=compact&hide=html,css,scss,makefile&exclude_repo=CodingPlatelets.github.io&langs_count=8)
